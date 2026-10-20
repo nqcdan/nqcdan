@@ -1,14 +1,14 @@
 ### Hi, I'm Đàn
 
-```java
-var dan = Engineer.builder()
-    .role("Software Engineer & Team Lead @ OpenFreightOne")
-    .building("OF1, a logistics platform used by ~1,000 people daily")
-    .stack("Java", "Spring Boot", "Kafka", "React", "TypeScript")
-    .into("platform backend", "event-driven systems", "AI agents")
-    .learning("Kubernetes", "CKA")
-    .build();
-```
+By day I build a logistics platform in Java at OpenFreightOne. This GitHub is the other half: small things I make
+because I want them to exist.
+
+Most of them start with something in my own week. I wanted help reading the Vietnamese stock market, so I built a
+group of LLM agents that argue bull vs bear before making a call. I'm learning English, so I made a tool that turns
+prompts into Anki cards. A few repos exist only because I got tired of clicking through a government portal.
+
+Lately I spend my evenings on AI agents, automating the boring parts of daily life, and running Kubernetes in a home
+lab to learn how it really works.
 
 #### Tech
 
