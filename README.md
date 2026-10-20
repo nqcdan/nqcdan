@@ -1,13 +1,14 @@
 ### Hi, I'm Đàn
 
-Software Engineer and Team Leader at OpenFreightOne, building **OF1**, a logistics and
-freight platform used by around 1,000 people every day.
-I work full-stack with Java/Spring Boot and React/TypeScript, and I'm moving towards platform backend and AI agents.
-
-- Lead a team of 5: technical design, task breakdown, code review, onboarding
-- Led the move from monolith to microservices with Keycloak SSO, Kafka and Debezium CDC
-- Design and maintain the shared platform layer: identity, RBAC with data scope, data access, file storage, webhooks
-- Currently learning Kubernetes, Helm and observability in a home lab, aiming for CKA
+```java
+var dan = Engineer.builder()
+    .role("Software Engineer & Team Lead @ OpenFreightOne")
+    .building("OF1, a logistics platform used by ~1,000 people daily")
+    .stack("Java", "Spring Boot", "Kafka", "React", "TypeScript")
+    .into("platform backend", "event-driven systems", "AI agents")
+    .learning("Kubernetes", "CKA")
+    .build();
+```
 
 #### Tech
 
