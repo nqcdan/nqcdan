@@ -1,7 +1,7 @@
 ### Hi, I'm Đàn
 
 Software Engineer and Team Leader at OpenFreightOne, building **OF1**, a logistics and
-freight platform (CRM, FMS, HRM, TMS, e-customs) used by around 1,000 people every day.
+freight platform used by around 1,000 people every day.
 I work full-stack with Java/Spring Boot and React/TypeScript, and I'm moving towards platform backend and AI agents.
 
 - Lead a team of 5: technical design, task breakdown, code review, onboarding
